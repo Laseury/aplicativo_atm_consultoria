@@ -24,7 +24,7 @@ class _TelaEmpresaState extends State<TelaEmpresa> {
                     Padding(
                       padding: EdgeInsets.only(left: 10),
                       child: Text(
-                        "Sobre a empresa",
+                        "Sobre a Empresa",
                         style:
                             TextStyle(fontSize: 20, color: Colors.deepOrange),
                       ),
